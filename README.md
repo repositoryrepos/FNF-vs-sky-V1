@@ -1,4 +1,11 @@
-# FNF-vs-sky-html5
-yayaya
-WARNING:THIS IS NOT MY MOD IT BELONGS TO THE ORIGINAL OWNERS WHO MADE THE MOD. I AM JUST ADDING THE MOD ON THERE FOR MY UNBLOCKED WEBSITE. 
-IF THE OWBER OF THE MOD WANTS ME TO TAKE IT DOWN I WILL. 
+# Friday Night Funkin' Vs Sky V1
+
+![Sky V1 Banner]()
+
+Source code for VS Kapi V1.
+
+this one is a modified version by @FirePlayz132 but still the same songs + Bonus week.
+anyway click the link and support more games like this at https://ublockedslackrr.github.io./
+
+
+Mod by Paperkitty.
